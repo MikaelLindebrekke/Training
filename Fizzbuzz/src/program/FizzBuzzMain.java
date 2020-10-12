@@ -9,7 +9,7 @@ package program;
  * For every number divisble by (n * m) output "FizzBuzz"
  */
 
-public class Main {
+public class FizzBuzzMain {
 	
 	final static int FIZZ = 2; 
 	final static int BUZZ = 3;
